@@ -1,4 +1,4 @@
-name = "Portugal"
+name = "Portugals"
 print(name)
 age = 38
 print(age)
